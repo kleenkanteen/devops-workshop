@@ -14,7 +14,6 @@ function Counter(props) {
 
   return (
     <div>
-      <h1>HELLO HUMANS</h1>
       <h1 data-testid="count">{count}</h1>
       <div style={{ display: "flex" }}>
         <button
